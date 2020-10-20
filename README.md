@@ -1,5 +1,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Any help is welcome! See the [contributions](CONTRIBUTING.md) guidelines.
+
 # OpenTelemetry
 Veichle generic telemetry based on ESP32 board connected via WIFI to a server with InfluxBD and Grafana.
 
