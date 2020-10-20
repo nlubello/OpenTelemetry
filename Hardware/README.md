@@ -30,4 +30,4 @@ Currently the application runs on following boards:
 
 |Brand|Model|Size|Protocol|Connection|
 |-----|-----|-----|------|----|
-|Nextion|NX4024T032|3.2"|UART|Pins 0, 4|
+|Nextion|[NX4024T032](https://nextion.tech/datasheets/nx4024t032/)|3.2"|UART|Pins 0, 4|
